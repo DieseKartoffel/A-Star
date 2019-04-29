@@ -18,4 +18,7 @@ caveroute _filename_
 
 ### Output
 
-- Program will print duration the pahtfinding took, the total cost and create a .csn files containing the ordered nodes of the shortest path.
+- Program will print duration the pathfinding took, the total cost and create a .csn files containing the ordered nodes of the shortest path. 
+
+### Notes
+The dissertation discusses some path finding algorithms and how A* is not only the fastest but also always optimal for this specific problem.
