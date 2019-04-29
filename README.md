@@ -19,6 +19,7 @@ caveroute _filename_
 ### Output
 
 - Program will print duration the pathfinding took, the total cost and create a .csn files containing the ordered nodes of the shortest path. 
+- If there is no possible path, the program will detect that and the .csn file will be empty.
 
 ### Notes
 The dissertation discusses some path finding algorithms and how A* is not only the fastest but also always optimal for this specific problem.
