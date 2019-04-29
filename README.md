@@ -1,5 +1,5 @@
 # A-Star
-An implementation of A-Star done for a coursework in Java with data structure implementation for graph creation and navigation.
+An implementation of A* pathfinding done for a coursework in Java with data structure implementation for graph creation and navigation.
 Graphs are created by loading formatted comma seperated values in .cav files
 
 ### Input Format (.cav file) 
